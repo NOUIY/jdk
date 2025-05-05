@@ -118,7 +118,7 @@
         <junit.version>4.13.2</junit.version>
         <batik.version>1.17</batik.version>
         <openpdf.version>1.3.34</openpdf.version>
-        <wala.version>1.6.2</wala.version>
+        <wala.version>1.6.7</wala.version>
         <brandingToken>idealgraphvisualizer</brandingToken>
     </properties>
 </project>
